@@ -2,7 +2,7 @@
 
 ## USER Story 
 
-I WANT TO be able to acces an app that will generate different conversational points.
+I WANT TO be able to access an app that will generate different conversational points.
 SO I CAN reduce my chances of having awkward silences in the conversation with my date.
 
 ### Acceptance Criteria
@@ -13,7 +13,7 @@ THEN the LOVE CALCULATOR fetches the percentage match which is displayed on scre
 
 2. Weather App
 WHEN I click on the WEATHER APP 
-THEN The weather for my location is displayed using an geolocator
+THEN The weather for my location is displayed using a geolocator
 
 3. Joke Generator
 WHEN  I click on the button
@@ -23,17 +23,25 @@ THEN A rondom joke is generated
 WHEN I click on the button of the excuse generator 
 THEN a random excuse is generated
 
+5. Compliment Generator
+WHEN I click on the button of the compliment generator
+THEN a random compliment is displayed.
+
+6. Activity Generator
+WHEN I click on a button of either a two person activity or a recreational activity
+THEN an activity matching the criteria is displayed.
+
 ### Description
 In this project, we have worked to create a polished UI.
 At least two server API's must be used.
 Client - side site storage must be used
 CSS framework must be used other than Bootstrap
-The projest must meet good quality coding standards (indentation, scoping, nameing, etc)
-No alerts, confirms, or promts may be used.
+The projest must meet good quality coding standards (indentation, scoping, naming, etc)
+No alerts, confirms, or prompts may be used.
 Must be deplayed in Github pages 
-Must be interactive (ie acccept and respont to user input)
+Must be interactive (ie acccept and responsive to user input)
 
-This project HTML, CSS and JS have been used.
+In this project, HTML, CSS and JS have been used.
 
 #### Links 
 
